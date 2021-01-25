@@ -1,0 +1,9 @@
+Hello world at nav
+
+* xref:index.adoc[Welcome]
+* xref:pages/overview.adoc[Overview]
+
+.Lists example
+* List one
+** 1.1
+* List two

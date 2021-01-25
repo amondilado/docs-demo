@@ -1,0 +1,6 @@
+name: demo-component
+title: demo component
+version: '1.0'
+display_version: 'Beta 1'
+nav:
+- modules/ROOT/nav.adoc
