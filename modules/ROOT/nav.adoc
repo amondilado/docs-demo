@@ -1,7 +1,8 @@
 Hello world at nav
 
 * xref:index.adoc[Welcome]
-* xref:pages/overview.adoc[Overview]
+* xref:overview.adoc[Overview]
+* xref:plantUml.adoc[PlantUml]
 
 .Lists example
 * List one

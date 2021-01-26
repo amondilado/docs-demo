@@ -1,1 +1,6 @@
 .idea
+node_modules
+build
+.antora-cache
+_images
+*.log

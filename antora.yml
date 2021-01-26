@@ -2,5 +2,8 @@ name: demo-component
 title: demo component
 version: '1.0'
 display_version: 'Beta 1'
+asciidoc:
+  attributes:
+    url-repo-custom: https://github.com/amondilado/antora-demo.git
 nav:
 - modules/ROOT/nav.adoc

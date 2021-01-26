@@ -1,1 +1,46 @@
-== Hello world at pages/overview
+= Hello world at pages/overview
+:sectanchors:
+:author: Moi
+:page-edition: edition light
+
+== Attributes
+----
+This page belongs to the *{page-module}* module in the *{page-component-title} {page-component-version}* component version.
+----
+This page belongs to the *{page-module}* module in the *{page-component-title} {page-component-version}* component version.
+
+.Examples:
+----
+"page-version": {page-version}
+"page-edition & author": {page-edition} by {author}
+----
+==========================
+*sectanchors*
+When set, sectanchors adds an anchor to the left of each section title. sectanchors is a boolean attribute, so its value is an empty string.
+==========================
+
+=== https://docs.antora.org/antora/2.3/page/define-and-modify-attributes/#unset-an-attribute[Unset an attribute]
+
+.Example
+----
+Page Title
+:!sectanchors:
+:table-caption!:
+----
+
+=== Share attributes
+* Site scope: In the playbook.yml
+* Component score: antora.yml
+
+.anora.yml
+----
+Declare:
+
+    asciidoc:
+      attributes:
+        url-repo-custom: https://github.com/amondilado/antora-demo.git
+----
+.Use in page
+----
+{url-repo-custom}
+----

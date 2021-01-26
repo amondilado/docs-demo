@@ -1,0 +1,5 @@
+= Hello world at pages/index
+:description: A demonstration of Antora docs.
+:keywords: demo, documentation
+:sectanchors:
+:page-customattr: custom-attr
