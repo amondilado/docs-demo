@@ -1,0 +1,20 @@
+= Antora docs playground
+
+== Usefull links
+* https://docs.antora.org/[Antora docs]
+* https://matthewsetter.com/antora/three-core-concepts/[Antora docs in a nutshell]
+* https://antora.gitlab.io/antora-ui-default/[Antora demo default ui theme]
+* https://gitlab.com/antora/demo[Antora demo at GitLab]
+* https://github.com/eshepelyuk/asciidoctor-plantuml-antora.git[PlantUML with Antora]
+* https://powerman.name/doc/asciidoc[AsciiDoc cheatsheat]
+
+== AsciiDoc Plugins
+* https://plantuml.com/[PlantUML]
+
+== Webstorm
+=== Plugins
+* https://plugins.jetbrains.com/plugin/7391-asciidoc[AsciiDoc]
+* https://plugins.jetbrains.com/plugin/7017-plantuml-integration[PlantUML integration (optional)]
+
+=== Settings
+https://intellij-asciidoc-plugin.ahus1.de/docs/users-guide/recommended-settings.html[AsciiDoc recommended settings]
